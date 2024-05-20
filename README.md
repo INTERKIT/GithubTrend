@@ -33,7 +33,7 @@ From Android Studio:
 
 ## Maintainers
 This project is mantained by:
-* [Alier](http://github.com/AAlier)
+* [Interkit](https://www.interkit.io/)
 
 
 ## Contributing
