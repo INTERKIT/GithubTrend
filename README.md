@@ -1,5 +1,6 @@
 # Android Trending Github repos Challenge
 
+## Overview
 The task is to implement an app that will display Github most starred repos, the app
 will fetch JSON data directly from the Github API.
 It is not designed to be difficult, so be mindful of over-engineering your solution.
@@ -18,26 +19,10 @@ username and user avatar on each row.
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-git clone git@github.com:AAlier/TrendingGithubRepo.git
+git clone git@github.com:INTERKIT/GithubTrend.git
 ```
 
-## Build variants
-Use the Android Studio *Build Variants* button to choose between **release** and **debug** flavors combined with debug and release build types
-
-
-## Generating signed APK
-From Android Studio:
-1. ***Build*** menu
-2. ***Generate Signed APK...***
-3. Fill in the keystore information *(you only need to do this once manually and then let Android Studio remember it)*
-
-## Maintainers
-This project is mantained by:
-* [Interkit](https://www.interkit.io/)
-
-
 ## Contributing
-
 1. Fork it
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -m 'Add some feature')
@@ -51,3 +36,10 @@ This project is mantained by:
 |[Retrofit](https://square.github.io/retrofit/)| A type-safe HTTP client for Android and Java. For more information please see the website. Handling of the |
 |[Koin](https://github.com/InsertKoinIO/koin-getting-started/blob/main/README.md)|A pragmatic lightweight dependency injection framework for Kotlin developers.|
 |[Glide](https://github.com/bumptech/glide/blob/master/README.md)| Fast and efficient open source media management and image loading framework for Android |
+|[Coroutines](https://developer.android.com/kotlin/coroutines)| A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously |
+
+## Support
+If you encounter any issues or have questions, please contact our support team at business@interkit.io or visit our [website](https://www.interkit.io/).
+
+## Feedback
+We value your feedback! Share your suggestions and experiences to help us improve the Chama Challenge app. Leave a review on the Google Play Store or contact us directly through the app.
