@@ -15,9 +15,9 @@ The task is to implement an app that will display Github most starred repos, the
 - As a user, I should be able to see the repo name, description, stars count, username and user avatar on each row. 
 - As a user, I should be able to keep scrolling and see new results coming up (pagination).
 
-| First Screen                        | Second Screen                       | Third Screen                        |
-| ----------------------------------- | ----------------------------------- | ----------------------------------- |
-| ![1](https://github.com/INTERKIT/Chama-Challenge/blob/master/screenshots/Screenshot%202024-05-21%20at%2011.25.12.png) | ![2](https://github.com/INTERKIT/Chama-Challenge/blob/master/screenshots/Screenshot%202024-05-21%20at%2011.25.34.png) | ![3](https://github.com/INTERKIT/Chama-Challenge/blob/master/screenshots/Screenshot%202024-05-21%20at%2011.25.54.png) |
+| First Screen                        | Second Screen                       |
+| ----------------------------------- | ----------------------------------- |
+| ![1](https://github.com/INTERKIT/GithubTrend/blob/master/screenshots/Screenshot%202024-05-21%20at%2014.04.58.png) | ![2](https://github.com/INTERKIT/GithubTrend/blob/master/screenshots/Screenshot%202024-05-21%20at%2014.05.11.png) |
 
 
 ```
